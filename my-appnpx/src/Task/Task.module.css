@@ -1,0 +1,26 @@
+.Parent  {
+display: flex;
+justify-content: space-between;
+
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, .5);
+    background-color:rgb(233, 252, 222);
+    margin: 10px;
+
+
+}
+.Parent input{
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+   
+    margin: auto;
+    width: 80%;
+    height: 30px;
+   
+}
+.Parent p,strike{
+  margin-left: 10px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}

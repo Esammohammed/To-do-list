@@ -1,0 +1,15 @@
+.newtask  {
+    display: flex;
+   flex-direction: column;
+
+    }
+.newtask input{
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+   
+    margin: auto;
+    width: 80%;
+    height: 30px;
+   
+}

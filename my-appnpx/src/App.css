@@ -1,0 +1,29 @@
+.App {
+  
+  text-align: center;
+ padding-top: 50px;
+ padding-bottom: 50px;
+
+  margin: auto;
+  width :80%;
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  background-color: rgb(234, 255, 223);
+}
+
+
+button {
+  padding: .5rem 1rem;
+  background-color:rgb(133, 187, 70);
+  color: white;
+  border-radius: 12px;
+}
+.App input{
+  outline: none;
+  border: 1px solid #cdcdcd;
+  border-color: rgba(0,0,0,.15);
+  margin: auto;
+  width: 50%;
+  height: 30px;
+ margin-bottom: 10px;
+}
